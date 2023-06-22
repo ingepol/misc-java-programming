@@ -1,0 +1,8 @@
+Stock price bubble
+Generate from interval
+Start price point one hundred
+Use random number between minus five and a plus five
+The plus or minus to the price, according to the random number
+The subscriber wants to cancel de subscription when the price below 9, or it goes beyond 110.
+
+
